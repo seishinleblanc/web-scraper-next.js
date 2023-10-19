@@ -13,20 +13,20 @@ const Home = async () => {
       <div className="flex max-xl:flex-col gap-16">
         <div className="flex flex-col justify-center">
           <p className="small-text">
-            Smart Shopping Starts Here:
-            <Image
+          Say goodbye to buyer's remorse and hello to smarter shopping:
+            {/* <Image
               src="/assets/icons/arrow-right.svg"
               alt="arrow-right"
               width={16}
               height={16}
-            />
+            /> */}
           </p>
           <h1 className="head-text">
             Unleash the Power of
-            <span className="text-primary"> PennySaver</span>
+            <span className="text-primary"> The Oracle</span>
           </h1>
           <p className="mt-6">
-            Powerful, self-serve product and growth analytics to help you convert, engage, and retain more.
+          Simply search for any item, from electronics to fashion, and let us do the rest. Our cutting-edge technology scours the web to bring you the most up-to-date prices, ensuring you never miss a bargain again.
           </p>
           <Searchbar />
         </div>

@@ -20,7 +20,7 @@ const Navbar = () => {
           />
 
           <p className="nav-logo">
-            Penny<span className="text-primary">Saver</span>
+            The <span className="text-primary">Oracle</span>
           </p>
         </Link>
         <div className="flex items-center gap-5">
