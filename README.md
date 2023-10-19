@@ -2,3 +2,5 @@ A price monitoring website that uses web scraping to track the price of Amazon i
 price data and be notified via email about changes.
 
 Developed using Next.js, MongoDB, Bright Data, and Tailwind CSS.
+
+Deployment Link: https://the-oracle-price-tracker.vercel.app/
